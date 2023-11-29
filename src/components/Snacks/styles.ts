@@ -70,5 +70,5 @@ export const Container = styled.div`
         }
       }
     }
-nav-up,  }
+  }
 `
